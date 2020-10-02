@@ -1,0 +1,12 @@
+.GenreSlider {
+    width: 100%;
+    height: auto;
+}
+
+.GenreSlider .movies {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 1% 0%;
+}

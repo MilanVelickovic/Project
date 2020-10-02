@@ -1,0 +1,9 @@
+.Input {
+    margin: 2% 0%;
+    padding: 3% 0%;
+    font-size: 1em;
+    font-weight: bold;
+    border: 0px solid #fff;
+    border-bottom: 2px solid #141414;
+    outline: none;
+}

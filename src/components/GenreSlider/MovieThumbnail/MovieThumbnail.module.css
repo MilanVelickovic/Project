@@ -1,0 +1,13 @@
+.MovieThumbnail {
+    width: 16%;
+    height: auto;
+    border: 3px solid #141414;
+}
+
+.MovieThumbnail img {
+    width: 100%;
+}
+
+.selected {
+    border: 3px solid red;
+}
